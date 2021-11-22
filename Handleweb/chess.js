@@ -135,7 +135,6 @@ export function chessScene(smoothScroll) {
       mesh.scale.x = mesh.scale.y = mesh.scale.z = Math.random() * .4 +0;
 
       groupBubbles.add( mesh );
-      // scene.add(groupBubbles)//
 
       spheres.push( mesh );
 
